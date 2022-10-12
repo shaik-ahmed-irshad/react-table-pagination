@@ -31,7 +31,7 @@ const App = () => {
 
   return (
     <div className='container mt-5'>
-      <h1 className='text-light p-3 bg-dark'>React table</h1>
+      <h1 className='text-light p-3 bg-dark text-justify'>React table</h1>
       <table className='text-center text-justify table table-dark table-striped'>
         <thead>
           <tr >
