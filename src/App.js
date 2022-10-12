@@ -28,6 +28,7 @@ const App = () => {
 
   // Change page
   const paginate = pageNumber => setCurrentPage(pageNumber);
+  
 
   return (
     <div className='container mt-5'>

@@ -13,8 +13,8 @@ const Posts = ({ posts, loading }) => {
           <td>{post.id}</td>
           <td>{post.albumId}</td>
           <td>{post.title}</td>
-          <td>{<img width={70} height={70} src={post.url}></img>}</td>
-          <td>{<img width={40} height={40} src={post.thumbnailUrl}></img>}</td>
+          <td>{<img width={70} height={70} src={post.url} alt={''}></img>}</td>
+          <td>{<img width={40} height={40} src={post.thumbnailUrl} alt={''}></img>}</td>
         </tr>
       ))
       }
