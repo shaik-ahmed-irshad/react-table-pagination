@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-table-pagination/static/css/main.17001c2a.css",
-    "main.js": "/react-table-pagination/static/js/main.7a045f84.js",
+    "main.js": "/react-table-pagination/static/js/main.f1cf9f19.js",
     "index.html": "/react-table-pagination/index.html",
     "main.17001c2a.css.map": "/react-table-pagination/static/css/main.17001c2a.css.map",
-    "main.7a045f84.js.map": "/react-table-pagination/static/js/main.7a045f84.js.map"
+    "main.f1cf9f19.js.map": "/react-table-pagination/static/js/main.f1cf9f19.js.map"
   },
   "entrypoints": [
     "static/css/main.17001c2a.css",
-    "static/js/main.7a045f84.js"
+    "static/js/main.f1cf9f19.js"
   ]
 }
