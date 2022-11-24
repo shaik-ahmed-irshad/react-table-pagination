@@ -1,3 +1,6 @@
+visit the app : https://shaik-ahmed-irshad.github.io/react-table-pagination/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
